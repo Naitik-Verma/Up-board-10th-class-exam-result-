@@ -1,4 +1,4 @@
-# Up-board-10th-class-exam-result-
+
 <!-- index.html -->
 <html>
 <head>
@@ -37,5 +37,27 @@
   <input class="input-box" type="text" placeholder="Enter Roll No." required><br><br>
   <input class="submit-button" type="submit" value="Submit">
 </form>
+</body>
+</html>
+
+<!-- popat.html -->
+<html>
+<head>
+<title>April Fool Prank</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+  }
+  h1 {
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+<h1>Chirag bhai tera popat ban gya hamesha ki tarah kyuki tu pagal hai 🤣🤣🤣</h1>
 </body>
 </html>
