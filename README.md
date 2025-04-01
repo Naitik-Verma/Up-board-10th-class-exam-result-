@@ -1,63 +1,42 @@
-
-<!-- index.html -->
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>UP Board 10th Class Exam Result</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 100px;
-  }
-  h1 {
-    font-size: 36px;
-    color: red;
-  }
-  .input-box {
-    font-size: 20px;
-    padding: 10px;
-    width: 300px;
-  }
-  .submit-button {
-    font-size: 24px;
-    padding: 10px 20px;
-    background-color: green;
-    color: white;
-    border: none;
-    cursor: pointer;
-  }
-  .submit-button:hover {
-    background-color: darkgreen;
-  }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UP Board 10th Class Exam Result</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    h1 {
+      font-size: 36px;
+      color: red;
+    }
+    .input-box {
+      font-size: 20px;
+      padding: 10px;
+      width: 300px;
+    }
+    .submit-button {
+      font-size: 24px;
+      padding: 10px 20px;
+      background-color: green;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    .submit-button:hover {
+      background-color: darkgreen;
+    }
+  </style>
 </head>
 <body>
-<h1>UP Board 10th Class Exam Result</h1>
-<form action="popat.html" method="get">
-  <input class="input-box" type="text" placeholder="Enter Roll No." required><br><br>
-  <input class="submit-button" type="submit" value="Submit">
-</form>
-</body>
-</html>
-
-<!-- popat.html -->
-<html>
-<head>
-<title>April Fool Prank</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 100px;
-  }
-  h1 {
-    font-size: 40px;
-    color: blue;
-    font-weight: bold;
-  }
-</style>
-</head>
-<body>
-<h1>Chirag bhai tera popat ban gya hamesha ki tarah kyuki tu pagal hai 🤣🤣🤣</h1>
+  <h1>UP Board 10th Class Exam Result</h1>
+  <form action="popat.html" method="get">
+    <input class="input-box" type="text" placeholder="Enter Roll No." required><br><br>
+    <input class="submit-button" type="submit" value="Submit">
+  </form>
 </body>
 </html>
